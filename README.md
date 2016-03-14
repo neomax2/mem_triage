@@ -3,8 +3,8 @@ A few scripts for triaging memory images, based on SANS rekall and volatility ch
 
 Usage:
 
-vol_triage.sh <memory_image_location> <profile>
+vol_triage.sh memory_image_location profile
 
 or
 
-rekall_triage.sh <memory_image_location>
+rekall_triage.sh memory_image_location
